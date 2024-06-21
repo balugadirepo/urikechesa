@@ -1,2 +1,4 @@
 this is test file 1
 this is edit after adding this file to staging area
+this is 3rd edit after committing 2 times
+this is 4th edit after 2 commits to check git diff --staged
