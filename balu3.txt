@@ -1,1 +1,2 @@
 this is 3rd file in staging area
+this is edit from github repo website
